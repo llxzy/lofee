@@ -8,6 +8,10 @@ using Microsoft.Extensions.Configuration;
 
 namespace lofee
 {
+
+    /*
+     * https://discord.foxbot.me/stable/guides/voice/sending-voice.html
+     */
     public class Program
     {
         private DiscordSocketClient _client;
